@@ -35,6 +35,10 @@
 		{
 			"Name": "AlembicImporter",
 			"Enabled": false
+		},
+		{
+			"Name": "MetaHuman",
+			"Enabled": true
 		}
 	]
 }
